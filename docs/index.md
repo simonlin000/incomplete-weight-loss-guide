@@ -15,6 +15,9 @@ hero:
     - theme: alt
       text: 30 天起步计划
       link: /ch05-first-30-days
+    - theme: alt
+      text: 下载 PDF
+      link: /downloads/incomplete-weight-loss-guide.pdf
 
 features:
   - title: 先看我的账

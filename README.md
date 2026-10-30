@@ -8,6 +8,8 @@
 
 **在线读**：https://simonlin000.github.io/incomplete-weight-loss-guide/
 
+**PDF 版**：https://simonlin000.github.io/incomplete-weight-loss-guide/downloads/incomplete-weight-loss-guide.pdf （73 页，A4，带封面和目录）
+
 ## 这本书的规矩
 
 - 每条实质结论后面挂证据等级：**A** 官方指南／综述／大样本 RCT　**B** 单项 RCT 或队列　**C** 机制推断／小样本／个人经验
