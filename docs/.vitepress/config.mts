@@ -47,7 +47,7 @@ export default defineConfig({
         text: '附录',
         collapsed: false,
         items: [
-          { text: '附 A　中式食物速查表', link: '/appendix/a-food-table' },
+          { text: '附 A　食物交换表', link: '/appendix/a-food-table' },
           { text: '附 B　常见问题', link: '/appendix/b-faq' },
           { text: '附 C　术语表', link: '/appendix/c-glossary' },
           { text: '附 D　跟着谁看', link: '/appendix/d-who-to-follow' },
