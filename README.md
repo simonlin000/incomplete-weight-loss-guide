@@ -4,6 +4,8 @@
 
 写清三件事：怎么算、怎么吃、怎么练；也写清我没做到的、证据不足的、以及网上流传但不对的。
 
+作者：**Simonlin**　｜　公众号：**Simonlin的精神世界**
+
 **在线读**：https://simonlin000.github.io/incomplete-weight-loss-guide/
 
 ## 这本书的规矩

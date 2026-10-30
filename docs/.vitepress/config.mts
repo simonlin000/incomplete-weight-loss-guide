@@ -10,8 +10,14 @@ export default defineConfig({
   lastUpdated: true,
   head: [
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1' }],
+    ['meta', { name: 'author', content: 'Simonlin' }],
+    ['meta', { property: 'og:site_name', content: '不完全减肥指南 · Simonlin' }],
   ],
   themeConfig: {
+    footer: {
+      message: '作者 <strong>Simonlin</strong>　｜　公众号：<strong>Simonlin的精神世界</strong>',
+      copyright: '文字 CC BY-NC-SA 4.0　·　代码 MIT',
+    },
     nav: [
       { text: '开始读', link: '/ch00-my-account' },
       { text: '附录', link: '/appendix/a-food-table' },

@@ -1,0 +1,14 @@
+.author-sign {
+  margin: 48px 0 8px;
+  padding-top: 16px;
+  border-top: 1px solid var(--vp-c-divider);
+  font-size: 13px;
+  color: var(--vp-c-text-2);
+  letter-spacing: 0.02em;
+}
+.author-sign strong {
+  color: var(--vp-c-text-1);
+  font-weight: 600;
+}
+.author-sign-label { margin-right: 4px; }
+.author-sign-sep { margin: 0 8px; opacity: 0.5; }
