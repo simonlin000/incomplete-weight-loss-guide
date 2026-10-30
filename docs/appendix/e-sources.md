@@ -137,6 +137,11 @@ DOI：https://doi.org/10.1002/oby.21538
 链接：https://www.mcdonalds.com.cn/product/Big-Mac
 用到的地方：1.6、2.2。
 
+**S2｜Free Exercise DB（动作示范照片）**〔B〕
+yuhonas/free-exercise-db，870 余个动作，每个动作两张照片（起始、到位），数据集以 Unlicense 释出，属公有领域，可自由使用与改写。
+链接：https://github.com/yuhonas/free-exercise-db
+用到的地方：4.4 的 19 张分解图。我把每个动作的起止两帧拼成一张，加了标号与要点；照片本身没有改动动作、没有重绘。
+
 ## 作者自己那一份
 
 第零部分、第五部分里关于减重经历的叙述，第一人称，来自本人；体重、体脂、BMI 的数字取自体脂秤截图，两张截图都在第零部分。
