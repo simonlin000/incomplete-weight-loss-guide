@@ -1,6 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  // GitHub Pages 项目站点走子路径；本地预览不带
+  base: process.env.DOCS_BASE || '/',
   lang: 'zh-CN',
   title: '不完全减肥指南',
   description: '给普通人的减重方法：热量缺口、怎么吃、怎么练、卡住了怎么办。每条结论标证据等级，来源可核。',
