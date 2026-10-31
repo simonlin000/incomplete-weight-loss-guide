@@ -130,6 +130,42 @@ DOI：https://doi.org/10.1002/oby.21538
 主体：Jastreboff AM, 等. Tirzepatide Once Weekly for the Treatment of Obesity. *N Engl J Med*. 2022;387(3):205-216. DOI：https://doi.org/10.1056/NEJMoa2206038（72 周平均减 15%～21%）
 停药：Aronne LJ, 等. Continued Treatment With Tirzepatide for Maintenance of Weight Reduction in Adults With Obesity: The SURMOUNT-4 Trial. *JAMA*. 2024. DOI：https://doi.org/10.1001/jama.2023.24945（先用 36 周降 20.9%；之后继续用药再降 5.5%，换安慰剂回升 14.0%）
 
+**R15｜步频提高 5%～10% 对关节负荷的影响**〔B〕
+Heiderscheit BC, Chumanov ES, Michalski MP, Wille CM, Ryan MB. Effects of step rate manipulation on joint mechanics during running. *Med Sci Sports Exerc*. 2011;43(2):296-302.
+DOI：https://doi.org/10.1249/MSS.0b013e3181ebedf4
+45 名跑者在不同步频下测关节力学。步频在自选步频基础上提高 5%～10%，髋、膝的关节负荷与下肢冲击下降，步幅缩短。注意：研究支持的是“相对自己的步频往上调一点”，不是“必须 180 步/分”。
+用到的地方：4.7。
+
+**R16｜改落地方式值不值：系统综述**〔B〕
+Anderson LM, Bonanno DR, Hart HF, Barton CJ. What are the Benefits and Risks Associated with Changing Foot Strike Pattern During Running? A Systematic Review and Meta-analysis of Injury, Running Economy, and Biomechanics. *Sports Med*. 2020;50(5):885-917.
+DOI：https://doi.org/10.1007/s40279-019-01238-y
+纳入 53 项研究。改成前脚掌落地：膝关节屈曲幅度与髌股关节应力下降，但踝关节跖屈肌负荷上升；跑步经济性没有改善证据；受伤风险只有回顾性证据，缺前瞻性研究，关系无法确定。作者结论：对没有受伤、习惯后跟着地的跑者，不建议改落地方式。所以不必刻意改，但要避免落脚点过度前伸。
+用到的地方：4.7。
+
+**R17｜耐力训练的强度分布：三区模型**〔B〕
+Seiler S. What is Best Practice for Training Intensity and Duration Distribution in Endurance Athletes? *Int J Sports Physiol Perform*. 2010;5(3):276-291.
+DOI：https://doi.org/10.1123/ijspp.5.3.276
+三区划分：一区在第一乳酸阈以下，二区介于两个乳酸阈之间，三区在第二阈以上。综述汇编的观察：高水平耐力选手约 80% 的训练课落在低强度（约 2 毫摩尔/升血乳酸），约 20% 是高强度间歇（约 90% VO2max）；中间那块反而不多，这就是后来常说的极化训练。注意：这里的“二区”和手表五区的“二区”不是一个东西。
+用到的地方：4.8。
+
+**R18｜最大心率怎么估**〔B〕
+Tanaka H, Monahan KD, Seals DR. Age-predicted maximal heart rate revisited. *J Am Coll Cardiol*. 2001;37(1):153-156.
+DOI：https://doi.org/10.1016/S0735-1097(00)01054-8
+在对 351 项研究的汇总分析基础上给出：最大心率 ≈ 208 − 0.7×年龄。比 220−年龄 的误差小，但仍是估算，个体差异可达 ±10 次/分左右。
+用到的地方：4.8。
+
+**R19｜乳酸阈的概念与取值**〔B〕
+Faude O, Kindermann W, Meyer T. Lactate Threshold Concepts: How Valid are They? *Sports Med*. 2009;39(6):469-490.
+DOI：https://doi.org/10.2165/00007256-200939060-00003
+综述固定与个体乳酸阈两类方法。常用的两个坐标：第一乳酸阈约 2 毫摩尔/升，第二乳酸阈约 4 毫摩尔/升。
+用到的地方：4.8。
+
+**R20｜说话测试作为强度标记**〔B〕
+Foster C, Porcari JP, Anderson J, Paulson M, Smaczny D, Webber H, 等. The Talk Test as a Marker of Exercise Training Intensity. *J Cardiopulm Rehabil Prev*. 2008;28(1):24-30.
+DOI：https://doi.org/10.1097/01.HCR.0000311504.41775.78
+能完整说话对应中等强度以下/中等强度，说话开始受限的位置接近通气阈。不需要设备。
+用到的地方：4.8、4.9。
+
 ## S 系列　平台与产品
 
 **S1｜麦当劳中国巨无霸营养信息**〔A〕
@@ -140,7 +176,7 @@ DOI：https://doi.org/10.1002/oby.21538
 **S2｜Free Exercise DB（动作示范照片）**〔B〕
 yuhonas/free-exercise-db，870 余个动作，每个动作两张照片（起始、到位），数据集以 Unlicense 释出，属公有领域，可自由使用与改写。
 链接：https://github.com/yuhonas/free-exercise-db
-用到的地方：4.4 的 19 张分解图。我把每个动作的起止两帧拼成一张，加了标号与要点；照片本身没有改动动作、没有重绘。
+用到的地方：4.4 与 4.10 的 29 张分解图。我把每个动作的起止两帧拼成一张，加了标号与要点；照片本身没有改动动作、没有重绘。
 
 ## 作者自己那一份
 
