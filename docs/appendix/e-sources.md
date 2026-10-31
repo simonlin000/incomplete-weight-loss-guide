@@ -195,3 +195,9 @@ yuhonas/free-exercise-db，870 余个动作，每个动作两张照片（起始�
 ---
 
 这篇附录会长，但它比正文更该被挑刺。哪一条点不开、哪一句和原文对不上，去仓库提 issue，我改。
+
+**R21｜各项运动的能耗区间（MET 值）**〔A〕
+Ainsworth BE, Haskell WL, Herrmann SD, Meckes N, 等. 2011 Compendium of Physical Activities: a second update of codes and MET values. *Med Sci Sports Exerc*. 2011;43(8):1575-1581.
+DOI：https://doi.org/10.1249/MSS.0b013e31821ece12
+运动能耗研究里通用的编码表，每一项给一个 MET 值（安静坐着约为 1）。本书用到的区间：平地快走 4.3，上坡走 5.3 到 8.0，上楼梯 8.8，慢跑 7.0 到 9.8，骑行 6.8 到 8.0，跳绳 11.0 到 12.3，自重力量 3.5 到 8.0，跳操 6.5 到 8.0，自由泳 5.8 到 9.8，器械训练 3.5 到 6.0。换算成消耗是 70 公斤的人一小时约 MET × 70 千卡，属于估算，个体差异可达两三成。
+用到的地方：4.11。
