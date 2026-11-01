@@ -14,14 +14,15 @@
 
 **G1｜《成人肥胖食养指南（2024 年版）》**〔A〕
 国家卫生健康委员会，2024 年 2 月发布。
-用到的地方：0.2 每周减重的速度上限；2.2 缺口 500～1000 千卡与男女下限；2.4 三大营养素供能比与三餐 3:4:3；3.3 进餐顺序；3.7 油盐上限；4.2 运动处方与久坐时间；6.2 平台期是标准情形。
+用到的地方：0.2 每周减重的速度上限；2.2 缺口 500～1000 千卡与男女下限；2.4 三大营养素供能比与三餐 3:4:3；3.3 进餐顺序；3.7 油盐上限；4.2 运动处方与久坐时间；6.2 平台期是标准情形；8.4 乳母要在指导下减重。
 原文位置：能量与供能比在正文第 5 页；进餐顺序在第 8 页；运动处方在第 8 页；减重速度在第 9 页。
 链接：https://www.nhc.gov.cn/sps/c100088/202402/9ba512ba8e314a47a181db11d2fa188d/files/1743476136267_20714.pdf
 
 **G2｜《中国居民膳食指南（2022）》**〔A〕
 中国营养学会编著，人民卫生出版社。
-用到的地方：3.4 每日饮水量（男 1700 毫升、女 1500 毫升，准则六）；3.5 与 3.7 食盐不超过 5 克、烹调油 25～30 克（准则四）；4.6 每天主动身体活动 6000 步（准则二）。
+用到的地方：3.4 每日饮水量（男 1700 毫升、女 1500 毫升，准则六）；3.5 与 3.7 食盐不超过 5 克、烹调油 25～30 克（准则四）；4.6 每天主动身体活动 6000 步（准则二）；3.11 成年人饮酒一天酒精不超过 15 克、哪些人不应饮酒、哪些情况应控制饮酒（驾车、服用与酒精相互作用的药物、酒精过敏、高甘油三酯血症、胰腺炎、肝病、血尿酸过高）（准则五）；8.4 乳母不应饮酒（准则五）。
 链接：http://dg.cnsoc.org/article/04/wDCyy7cWSJCN6pwKHOo5Dw.html
+准则五链接：http://dg.cnsoc.org/article/04/ApX3_ozGTmSoqQaFFh5z_Q.html
 
 **G3｜GB 28050《预包装食品营养标签通则》**〔A〕
 现行版本 GB 28050-2011；新版 GB 28050-2025 于 2025 年 3 月 16 日发布，2027 年 3 月 16 日实施，替代 2011 版。
@@ -62,6 +63,34 @@ Dietary Reference Intakes for Energy, Carbohydrate, Fiber, Fat, Fatty Acids, Cho
 诺和盈（减重版司美格鲁肽）：2024 年 6 月 25 日获国家药监局批准减重适应症，2024 年 11 月 17 日上市。适应症门槛 BMI ≥30，或 BMI 27～30 且至少一种体重相关合并症。
 穆峰达（替尔泊肽）：2024 年 5 月获批糖尿病适应症，2024 年 7 月 19 日获批减重适应症，2025 年 1 月 2 日上市。减重门槛 BMI ≥28，或 BMI ≥24 且至少一种合并症。
 用到的地方：8.3。
+
+**G11｜T/CNSS 014—2022《产褥期妇女膳食指导》**〔A〕
+中国营养学会发布，2022 年 8 月 30 日发布、10 月 30 日实施。
+用到的地方：8.4 产褥期哺乳与不哺乳的能量推荐（哺乳 9614 kJ/d，即 2300 kcal/d；非哺乳 7524 kJ/d，即 1800 kcal/d）、“食不过量”、产后运动的时间和强度、每日睡眠 8 小时以上。
+原文位置：5.1.1.1；能量推荐表；5.5.1；5.5.2.1。
+链接：https://www.cnsoc.org/otherNotice/files/@CmsXh_e27ba247-10af-42b5-96e7-41e99ef4ece6.pdf
+
+**G12｜FAO《Food energy – methods of analysis and conversion factors》**〔A〕
+联合国粮农组织，Food and Nutrition Paper 77，2003 年，第 3 章。
+用到的地方：3.11 酒精每克约 7 千卡（29 kJ/g；未取整为 6.9 kcal/g），以及蛋白质、碳水 4 千卡、脂肪 9 千卡的通用系数。
+链接：https://www.fao.org/4/y5022e/y5022e04.htm
+
+**G13｜2023 年多囊卵巢综合征国际循证指南**〔A〕
+Teede HJ, Tay CT, Laven JSE, Dokras A, 等. Recommendations From the 2023 International Evidence-based Guideline for the Assessment and Management of Polycystic Ovary Syndrome. *J Clin Endocrinol Metab*. 2023;108(10):2447-2469.
+DOI：https://doi.org/10.1210/clinem/dgad463
+全文：https://pmc.ncbi.nlm.nih.gov/articles/PMC10505534/
+用到的地方：8.4 患病率 10%～13%（1.6.1）；月经不规律的判断线（1.1.1）；进食障碍（2.5.1）；生活方式干预推荐给所有患者、体重没掉也有好处（3.1.1、3.1.5）；没有哪种饮食结构更优（3.3.1）；运动量（3.4 节）。
+
+**G14｜《多囊卵巢综合征中国诊疗指南》**〔A〕
+中华医学会妇产科学分会内分泌学组及指南专家组. 中华妇产科杂志, 2018, 53(1): 2-6.
+DOI：10.3760/cma.j.issn.0529-567X.2018.01.002
+全文：http://cmab.yiigle.com/uploads/guide_html/多囊卵巢综合征中国诊疗指南.html
+用到的地方：8.4 疑似与确诊的诊断条件；生活方式干预是首选基础治疗；运动每天 30 分钟、每周至少 5 次。另：全文未出现“体重下降 5%～10% 使 80% 以上患者恢复排卵”一类表述，网上转述不实。
+
+**G15｜ACOG Committee Opinion No. 804：孕期与产后的身体活动和运动**〔A〕
+American College of Obstetricians and Gynecologists. Physical Activity and Exercise During Pregnancy and the Postpartum Period. *Obstet Gynecol*. 2020;135(4):e178-e188.
+DOI：https://doi.org/10.1097/AOG.0000000000003772
+用到的地方：8.4 身体活动可能是预防产后抑郁的重要因素（摘要原文）。
 
 ## R 系列　论文与研究
 
@@ -166,6 +195,54 @@ DOI：https://doi.org/10.1097/01.HCR.0000311504.41775.78
 能完整说话对应中等强度以下/中等强度，说话开始受限的位置接近通气阈。不需要设备。
 用到的地方：4.8、4.9。
 
+**R21｜各项运动的能耗区间（MET 值）**〔A〕
+Ainsworth BE, Haskell WL, Herrmann SD, Meckes N, 等. 2011 Compendium of Physical Activities: a second update of codes and MET values. *Med Sci Sports Exerc*. 2011;43(8):1575-1581.
+DOI：https://doi.org/10.1249/MSS.0b013e31821ece12
+运动能耗研究里通用的编码表，每一项给一个 MET 值（安静坐着约为 1）。本书用到的区间：平地快走 4.3，上坡走 5.3 到 8.0，上楼梯 8.8，慢跑 7.0 到 9.8，骑行 6.8 到 8.0，跳绳 11.0 到 12.3，自重力量 3.5 到 8.0，跳操 6.5 到 8.0，自由泳 5.8 到 9.8，器械训练 3.5 到 6.0。换算成消耗是 70 公斤的人一小时约 MET × 70 千卡，属于估算，个体差异可达两三成。
+用到的地方：4.11。
+
+**R22｜月经周期里自觉水肿的变化**〔B〕
+White CP, Hitchcock CL, Vigna YM, Prior JC. Fluid Retention over the Menstrual Cycle: 1-Year Data from the Prospective Ovulation Cohort. *Obstet Gynecol Int*. 2011;2011:138451.
+DOI：https://doi.org/10.1155/2011/138451
+62 位健康女性、765 个周期的每日日记。自评水肿在经期第一天最高，卵泡期中段最低。记的是自我感觉，没有称体重。
+用到的地方：8.4。
+
+**R23｜月经周期里的能量摄入**〔C〕
+Rogan MM, Black KE. Dietary energy intake across the menstrual cycle: a narrative review. *Nutr Rev*. 2023;81(7):869-886.
+DOI：https://doi.org/10.1093/nutrit/nuac094
+叙述性综述。卵泡期摄入偏低、黄体期偏高，幅度目前无法量化，个体之间、周期之间都有差异；作者明确指出高质量研究缺乏。
+用到的地方：8.4。
+
+**R24｜月经周期对静息代谢的影响**〔A〕
+Benton MJ, Hutchins AM, Dawes JJ. Effect of menstrual cycle on resting metabolism: A systematic review and meta-analysis. *PLoS One*. 2020;15(7):e0236025.
+DOI：https://doi.org/10.1371/journal.pone.0236025
+26 项研究、318 位女性。黄体期静息代谢略高，效应量小（ES＝0.33）；2000 年以后的研究里不再显著（ES＝0.23，p＝0.055）。样本小，偏倚风险不低。
+用到的地方：8.4。
+
+**R25｜哺乳期减重对婴儿生长的影响**〔B〕
+Lovelady CA, Garner KE, Moreno KL, Williams JP. The Effect of Weight Loss in Overweight, Lactating Women on the Growth of Their Infants. *N Engl J Med*. 2000;342(7):449-453.
+DOI：https://doi.org/10.1056/NEJM200002173420701
+40 位产后 4 周、BMI 25～30、纯母乳喂养的女性随机分组，10 周。饮食加运动组减 4.8±1.7 公斤，对照组 0.8±2.3 公斤；婴儿生长无差别。
+用到的地方：8.4。
+
+**R26｜喝酒会不会让人少吃饭：系统综述与 meta 分析**〔A〕
+Kwok A, Dordevic AL, Paton G, Page MJ, 等. Effect of alcohol consumption on food energy intake: a systematic review and meta-analysis. *Br J Nutr*. 2019;121(5):481-495.
+DOI：https://doi.org/10.1017/S0007114518003677
+22 项研究、701 人。饮酒组食物摄入多 343 kJ（95% CI 161～525），总摄入多 1072 kJ（820～1323）。受试者多为 18～37 岁，部分结果异质性大。千焦换千卡按 4.184 算。
+用到的地方：3.11。
+
+**R27｜酒精、食欲与能量平衡**〔B〕
+Yeomans MR. Alcohol, appetite and energy balance: Is alcohol intake a risk factor for obesity? *Physiol Behav*. 2010;100(1):82-89.
+DOI：https://doi.org/10.1016/j.physbeh.2010.01.012
+综述：酒精的热量是叠加上去的；饭前或饭时喝酒倾向于增加进食。
+用到的地方：3.11。
+
+**R28｜和别人一起吃会吃得更多：系统综述与 meta 分析**〔A〕
+Ruddock HK, Brunstrom JM, Vartanian LR, Higgs S. A systematic review and meta-analysis of the social facilitation of eating. *Am J Clin Nutr*. 2019;110(4):842-861.
+DOI：https://doi.org/10.1093/ajcn/nqz155
+42 项研究。与朋友一起吃比独自吃选得多、吃得多；效应受同桌者熟悉程度影响。
+用到的地方：3.11。
+
 ## S 系列　平台与产品
 
 **S1｜麦当劳中国巨无霸营养信息**〔A〕
@@ -195,9 +272,3 @@ yuhonas/free-exercise-db，870 余个动作，每个动作两张照片（起始�
 ---
 
 这篇附录会长，但它比正文更该被挑刺。哪一条点不开、哪一句和原文对不上，去仓库提 issue，我改。
-
-**R21｜各项运动的能耗区间（MET 值）**〔A〕
-Ainsworth BE, Haskell WL, Herrmann SD, Meckes N, 等. 2011 Compendium of Physical Activities: a second update of codes and MET values. *Med Sci Sports Exerc*. 2011;43(8):1575-1581.
-DOI：https://doi.org/10.1249/MSS.0b013e31821ece12
-运动能耗研究里通用的编码表，每一项给一个 MET 值（安静坐着约为 1）。本书用到的区间：平地快走 4.3，上坡走 5.3 到 8.0，上楼梯 8.8，慢跑 7.0 到 9.8，骑行 6.8 到 8.0，跳绳 11.0 到 12.3，自重力量 3.5 到 8.0，跳操 6.5 到 8.0，自由泳 5.8 到 9.8，器械训练 3.5 到 6.0。换算成消耗是 70 公斤的人一小时约 MET × 70 千卡，属于估算，个体差异可达两三成。
-用到的地方：4.11。
