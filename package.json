@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",
-    "preview": "vitepress preview docs"
+    "preview": "vitepress preview docs",
+    "test:calculator": "node tools/verify_calculator.cjs"
   },
   "devDependencies": {
     "vitepress": "^1.6.4"

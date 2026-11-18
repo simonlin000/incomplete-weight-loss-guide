@@ -15,6 +15,7 @@ ORDER = [
     ("ch00-my-account.md", None),
     ("ch01-myths.md", None),
     ("ch02-one-rule.md", None),
+    ("calculator.md", None),
     ("ch03-eating.md", None),
     ("ch04-training.md", None),
     ("ch05-first-30-days.md", None),
@@ -34,6 +35,7 @@ ORDER = [
 def md2html(path: pathlib.Path) -> str:
     text = path.read_text(encoding="utf-8")
     text = re.sub(r"^---\n.*?\n---\n", "", text, flags=re.S)      # 去掉 VitePress frontmatter
+    text = text.replace("<CalorieCalc />", "网页版可使用交互计算器：https://simonlin000.github.io/incomplete-weight-loss-guide/calculator 。纸质版可按 2.3 的步骤计算。")
     out = subprocess.run(
         ["pandoc", "-f", "markdown", "-t", "html5", "--wrap=none"],
         input=text, capture_output=True, text=True, check=True,
@@ -253,7 +255,7 @@ def build() -> None:
     front = """
 <section class="front"><div class="front-inner">
   <div class="front-title">不完全减肥指南</div>
-  <div class="front-sub">给普通人的一套减重方法 · 网页版同步更新</div>
+  <div class="front-sub">给普通人的一套减重方法</div>
   <div class="rule"></div>
   <div class="front-body">
     <dl>
@@ -261,12 +263,12 @@ def build() -> None:
       <dt>公众号</dt><dd>Simonlin的精神世界</dd>
       <dt>在线读</dt><dd>https://simonlin000.github.io/incomplete-weight-loss-guide/</dd>
       <dt>源代码</dt><dd>https://github.com/simonlin000/incomplete-weight-loss-guide</dd>
-      <dt>版本</dt><dd>2026 年 10 月 30 日 · 第 1 版</dd>
+      <dt>版本</dt><dd>2026 年 11 月 7 日 · 文字修订版</dd>
       <dt>许可</dt><dd>文字 CC BY-NC-SA 4.0　｜　代码 MIT</dd>
     </dl>
     <div class="rule"></div>
-    <p class="small">这本书写的是减重的一般方法和一个人的实践记录，不是医疗建议。有基础病、在吃药、怀孕或哺乳、有进食障碍史，先找医生。书里凡是标 C 的段落，都是机制推断或个人经验，不是证据。<br>
-    所有实质结论后面都挂着编号，编号对应附录 E 的来源条目。哪一条你核不到，或者挪不动脚，去 GitHub 提一个 issue，我改了会在变更记录里写清改了什么、为什么改。</p>
+    <p class="small">这本书写的是减重的一般方法和一个人的实践记录，不是医疗建议。有基础病、在吃药、怀孕或哺乳、有进食障碍史，先找医生。A/B/C 为本书自定的来源标签，不是正式证据确定性评分；研究局限与适用人群另行说明。<br>
+    正文编号对应附录 E 的来源条目；部分论文仅核到题录与摘要，具体见来源条目。哪一条你核不到，或者挪不动脚，去 GitHub 提一个 issue，我改了会在变更记录里写清改了什么、为什么改。</p>
   </div>
 </div></section>
 """
@@ -278,7 +280,7 @@ def build() -> None:
     html = f"""<!DOCTYPE html>
 <html lang="zh-CN"><head><meta charset="utf-8"><title>不完全减肥指南</title>
 <meta name="author" content="Simonlin">
-<meta name="description" content="给普通人的一套减重方法：怎么算、怎么吃、怎么练。每条结论标证据等级，来源可核。">
+<meta name="description" content="给普通人的一套减重方法：怎么算、怎么吃、怎么练。来源分类与适用边界写明，文献可查。">
 <meta name="keywords" content="减重,减肥,热量缺口,减脂,不完全减肥指南,Simonlin">
 <style>{CSS}</style></head>
 <body>

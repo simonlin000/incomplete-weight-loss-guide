@@ -20,8 +20,8 @@ import sys
 import pathlib
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-DOCS = ROOT / "repo" / "docs"
-DEFAULT_PDF = pathlib.Path(__file__).resolve().parent / "不完全减肥指南.pdf"
+DOCS = ROOT / "docs"
+DEFAULT_PDF = ROOT.parent / "PDF版" / "不完全减肥指南.pdf"
 
 fails, warns = [], []
 

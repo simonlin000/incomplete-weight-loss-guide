@@ -20,6 +20,7 @@ export default defineConfig({
     },
     nav: [
       { text: '开始读', link: '/ch00-my-account' },
+      { text: '算一下', link: '/calculator' },
       { text: '附录', link: '/appendix/a-food-table' },
     ],
     outline: { level: [2, 3], label: '本页目录' },
@@ -49,6 +50,7 @@ export default defineConfig({
       { text: '第八部分　安全边界', link: '/ch08-safety' },
       { text: '第九部分　怎么判断真假', link: '/ch09-fact-check' },
       { text: '尾声　你一定要瘦', link: '/epilogue' },
+      { text: '工具　热量计算器', link: '/calculator' },
       {
         text: '附录',
         collapsed: false,

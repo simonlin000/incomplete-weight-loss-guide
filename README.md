@@ -8,11 +8,13 @@
 
 **在线读**：https://simonlin000.github.io/incomplete-weight-loss-guide/
 
-**PDF 版**：https://simonlin000.github.io/incomplete-weight-loss-guide/downloads/incomplete-weight-loss-guide.pdf （73 页，A4，带封面和目录）
+**PDF 版**：https://simonlin000.github.io/incomplete-weight-loss-guide/downloads/incomplete-weight-loss-guide.pdf （本地修订版 106 页，A4，带封面和目录；公开下载版本以实际部署为准）
+
+**本地修订：2026-11-07。** 11 月 5 日事实修订后，本次重写 8.4 经期体重段落。 当前源码与本地生成的 PDF 同版，公开站点是否更新以部署结果为准。
 
 ## 这本书的规矩
 
-- 每条实质结论后面挂证据等级：**A** 官方指南／综述／大样本 RCT　**B** 单项 RCT 或队列　**C** 机制推断／小样本／个人经验
+- A/B/C 是本书自定的来源分类，不是正式证据确定性评分；研究质量、适用人群及低确定性结论另行说明
 - 正文只写编号（G1、R3），完整条目在[附录 E](./docs/appendix/e-sources.md)
 - 不确定就写「证据不足」，不装确定
 - 第一人称只用于真实做过的事
